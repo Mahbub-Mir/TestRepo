@@ -8,3 +8,4 @@ Modified by Ist user in Katalon 1st time
 =======
 Modified by 2nd user in github 5th time
 >>>>>>> branch 'JIRA-00001' of https://github.com/Mahbub-Mir/TestRepo.git
+Added new line by Ist user in Katalon
